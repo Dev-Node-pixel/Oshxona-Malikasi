@@ -1,0 +1,8 @@
+{
+  "name": "Oshxona Malikasi - Intelligent Kitchen Assistant",
+  "description": "An AI-powered kitchen companion for women, featuring ingredient detection via photo upload, nutritional analysis, and personalized recipe generation in Uzbek, English, and Russian.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
